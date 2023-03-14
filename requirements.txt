@@ -1,0 +1,5 @@
+easygui
+pyinstaller
+pymupdf
+pywin32
+tk
